@@ -14,5 +14,7 @@ int main(int argc, const char * argv[]) {
     
     std::cout << "New line here" << std::endl;
     
+    std::cout << "Another new line here" << std::endl;
+    
     return 0;
 }
